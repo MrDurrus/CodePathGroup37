@@ -62,3 +62,12 @@
  - **Market:** 
  - **Habit:** Can be used on a daily basis in order to keep up with your emails. 
  - **Scope** file sharing/non-realtime communication
+ 
+ 
+ ## New App Ideas
+ --Jeremy
+ 1. Grocery app
+ gathers item profiles of items(like veggies) from various local grocery stores to compare them. Includes prices and personal customer input. Large chains can gain from promoting their stores. Users can gain from being able to have all item data in one place to do stuff like compare prices to see where to go to buy what.
+ 2.Social Notes app
+ like post-it notes but you can leave it anywhere. Its not a physical note but an online note people can use to leave notes for others. Can filter notes by friends/groups. Finding notes is based on geographical location. People can either physically go to the location, use the app and find the note or they can check for the note via maps. Can be audio or text. can be rated.
+ 3.
