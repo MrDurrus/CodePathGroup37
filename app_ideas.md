@@ -94,17 +94,17 @@
  A place where artist can sell their music (beats) for other people to use. Helps the artist get recognized and the user with music. 
  
   --Sander
- 1. Wildfire app
+ 1. Wildfire app - 
    App that allows for instant or quick notification to nearby firestations about location of fire using camera / position. AI (taking      picture) to confirm fire to avoid spam and non-serious actions.
  
- 2.Attendence app
+ 2.Attendence app - 
    App that allows for easy attendence taking. Create your own or sign up to courses / meetings etc. GPS based so users cant check in      from home. Also uses charts and graphs to display % of classes missed / on time.
  
- 3. Food eating app
+ 3. Food eating app - 
     App that lists nearby food places and allow u to check them off, indicating you have been eating there. Share with your friends,         display total amount spent on food places etc.
  
- 4. Fitness App / Online coach
+ 4. Fitness App / Online coach - 
     App that uses known formulas to calculate the amount of calories / excercise required to reach a specific goal. Have automated           weekly checkins to update the formula. Like an online coach thats free.
   
- 5. Roommates app
+ 5. Roommates app - 
     App that make finding roommates easier. Create an online profile, set location and hobbies. Match with people and maybe find your       perfect roommate.
