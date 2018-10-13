@@ -81,3 +81,14 @@
  5. School marketplace
   like ebay or facebook market place but meant specificaly for college kids. Sell textbooks, used binders, used backpacks, dorm stuff ect. Searches can be sorted by each college, major specific, or catagory of items. Users have to have log in with a school email address so that only the college kids would be allowed to use it.
  
+ --Jorge 
+ 1. Immigration App
+ An app designed to help undocumented students and students with mixed families. Will have Q&A, Red Card, Map, News source.
+ 2. Time Management App
+ App designated to help you manage your time a lot better. Helps create a schedule and able to adapt to last minute additions. A feature which will lock your phone if necessary. 
+ 3. School Social Network
+ Social media based meant for only college students. Going off Jeremy's idea, having a place to sell, trade, communicate with other college students. 
+ 4. 8 Bit Game
+ Small 8 bit story driven game about a kid who has to battle demons (Battling depression). 
+ 5. Music Downloader
+ A place where artist can sell their music (beats) for other people to use. Helps the artist get recognized and the user with music. 
