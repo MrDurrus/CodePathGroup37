@@ -97,7 +97,7 @@
  1. Wildfire app - 
    App that allows for instant or quick notification to nearby firestations about location of fire using camera / position. AI (taking      picture) to confirm fire to avoid spam and non-serious actions.
  
- 2.Attendence app - 
+ 2. Attendence app - 
    App that allows for easy attendence taking. Create your own or sign up to courses / meetings etc. GPS based so users cant check in      from home. Also uses charts and graphs to display % of classes missed / on time.
  
  3. Food eating app - 
