@@ -75,11 +75,15 @@
  3. Team finder app
  helps those who are unable to find teams by matching them up with others using the same app. Helps create/forms teams from those using the app.
  
- 4. Cooking app
+ --Wyatt
+ 1. Cooking app
   put in what food, ingedients, and spices you have in your kitchen and it gives you choices of what can be made and how to make those dishes. Could possibly run side by side with the grocery app above.
   
- 5. School marketplace
+ 2. School marketplace
   like ebay or facebook market place but meant specificaly for college kids. Sell textbooks, used binders, used backpacks, dorm stuff ect. Searches can be sorted by each college, major specific, or catagory of items. Users have to have log in with a school email address so that only the college kids would be allowed to use it.
+  
+ 3. Vine remake
+  Short videos to make people laugh. Almost like vine but just different enough so we dont get sued. lol
  
  --Jorge 
  1. Immigration App
