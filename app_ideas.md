@@ -75,11 +75,10 @@
  3. Team finder app
  helps those who are unable to find teams by matching them up with others using the same app. Helps create/forms teams from those using the app.
  
- --Wyatt
- 1. Cooking app
+ 4. Cooking app
   put in what food, ingedients, and spices you have in your kitchen and it gives you choices of what can be made and how to make those dishes. Could possibly run side by side with the grocery app above.
   
- 2. School marketplace
+ 5. School marketplace
   like ebay or facebook market place but meant specificaly for college kids. Sell textbooks, used binders, used backpacks, dorm stuff ect. Searches can be sorted by each college, major specific, or catagory of items. Users have to have log in with a school email address so that only the college kids would be allowed to use it.
  
  --Jorge 
@@ -93,3 +92,19 @@
  Small 8 bit story driven game about a kid who has to battle demons (Battling depression). 
  5. Music Downloader
  A place where artist can sell their music (beats) for other people to use. Helps the artist get recognized and the user with music. 
+ 
+  --Sander
+ 1. Wildfire app
+   App that allows for instant or quick notification to nearby firestations about location of fire using camera / position. AI (taking      picture) to confirm fire to avoid spam and non-serious actions.
+ 
+ 2.Attendence app
+   App that allows for easy attendence taking. Create your own or sign up to courses / meetings etc. GPS based so users cant check in      from home. Also uses charts and graphs to display % of classes missed / on time.
+ 
+ 3. Food eating app
+    App that lists nearby food places and allow u to check them off, indicating you have been eating there. Share with your friends,         display total amount spent on food places etc.
+ 
+ 4. Fitness App / Online coach
+    App that uses known formulas to calculate the amount of calories / excercise required to reach a specific goal. Have automated           weekly checkins to update the formula. Like an online coach thats free.
+  
+ 5. Roommates app
+    App that make finding roommates easier. Create an online profile, set location and hobbies. Match with people and maybe find your       perfect roommate.
