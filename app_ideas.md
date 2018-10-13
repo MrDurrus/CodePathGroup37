@@ -72,3 +72,6 @@
  2.Social Notes app
  like post-it notes but you can leave it anywhere. Its not a physical note but an online note people can use to leave notes for others. Can filter notes by friends/groups. Finding notes is based on geographical location. People can either physically go to the location, use the app and find the note or they can check for the note via maps. Can be audio or text. can be rated.
  
+ 3. Team finder app
+ helps those who are unable to find teams by matching them up with others using the same app. Helps create/forms teams from those using the app.
+ 
