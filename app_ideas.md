@@ -70,10 +70,16 @@
  gathers item profiles of items(like veggies) from various local grocery stores to compare them. Includes prices and personal customer input. Large chains can gain from promoting their stores. Users can gain from being able to have all item data in one place to do stuff like compare prices to see where to go to buy what.
  
  2.Social Notes app
- like post-it notes but you can leave it anywhere. Its not a physical note but an online note people can use to leave notes for others. Can filter notes by friends/groups. Finding notes is based on geographical location. People can either physically go to the location, use the app and find the note or they can check for the note via maps. Can be audio or text. can be rated.
+ like post-it notes but you can leave it anywhere. Its not a physical note but an online note people can use to leave notes for others. Can filter notes by friends/groups. Finding notes is based on geographical location. People can either physically go to the location, use the app and find the note or they can check for the note via maps. Can be audio or text. can be rated.(used)
  
  3. Team finder app
  helps those who are unable to find teams by matching them up with others using the same app. Helps create/forms teams from those using the app.
+ 
+ 4. Beacon app
+ Turns on a real-time virtual beacon that others under same frequency can follow. Like GPS tracking but simplified with a visual component.
+ 
+ 5. Meal planner
+ plans meals and grocery lists based on what ingredients you currently have(building off of wyatt #1) and with intentions on making a nutritious balanced meal.
  
  --Wyatt
  1. Cooking app
