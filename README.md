@@ -22,10 +22,78 @@ Meal planner plans meals and grocery lists based on what ingredients you current
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+Grocery planner>Meal creator>Meal planner
 
----
+
+
+**Required Must-have Stories**
+
+ * User can input/edit what ingredients to use
+ * User can view a list of recipes/meals possible(recipes from other users)
+ * User can see details on each recipe
+ * User can search for recipes
+ * User can login
+ * User can add their own recipes
+
+ 
+
+**Optional Nice-to-have Stories**
+
+* User can input ingredients/ grocery items to an total inventory
+* User can specify a portion size
+* User can scan their ingredients to add to the ingredient list
+
+* User can compare ingredient prices from local stores
+* User can add ingredients to a shopping list(specific to stores/recipes)
+* User can check off from the shopping list while noting quantity(like 16/20 carrots)
+
+* User can generate a list of needed ingredients based on a meal plan/meal
+* User can get a nutritional combination of meals planned for a day/week?(allergies/nutrition)
+* User can specify what kind of meal plan they want
+
+ 
+
+
+## 2. Screen Archetypes
+
+ * Login
+     * User can login
+ * Stream
+     * User can view a list of recipes/meals possible(recipes from other users)
+     * User can search for recipes 
+ 
+ * Detail
+     * User can see details on each recipe
+ * Creation
+     * User can add their own recipes
+ * Search
+     * User can input/edit what ingredients to use
+     * User can search for recipes
+
+ 
+ 
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home
+ * Recipes
+ * Create Recipe
+
+**Flow Navigation** (Screen to Screen)
+
+ * Login Screen
+     * Home Screen
+ * Stream Screen
+     * Search Screen
+     * Detail Screen
+ * Detail Screen
+     * None
+ * Creation Screen
+     * Home Screen
+     * in the future a preview screen?
+ * Search Screen
+     * Stream Screen
 
 ### Wireframes
 // TODO: Add Wireframe Images
