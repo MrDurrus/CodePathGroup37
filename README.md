@@ -96,7 +96,7 @@ Grocery planner>Meal creator>Meal planner
 
 ### Wireframes
 // TODO: Add Wireframe Images
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/MrDurrus/CodePathGroup37/blob/master/Frame.JPG)
 ---
 
 ### App Pitch Presentation
