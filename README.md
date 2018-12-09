@@ -95,9 +95,8 @@ Grocery planner>Meal creator>Meal planner
      * Stream Screen
 
 ### Wireframes
-// TODO: Add Wireframe Images
-![alt text](https://github.com/MrDurrus/CodePathGroup37/blob/master/Frame.JPG)
-![alt text](https://github.com/MrDurrus/CodePathGroup37/blob/master/Figma.gif)
+![alt text](https://github.com/MrDurrus/CodePathGroup37/blob/master/Wireframes.png)
+![alt text](https://github.com/MrDurrus/CodePathGroup37/blob/master/mad_group_project_2_GV.gif)
 ---
 
 ### App Pitch Presentation
